@@ -31,7 +31,7 @@ html,body {
     display: flex;
     justify-content: center;
     align-items: center;
-    animation: anim2 1.5s cubic-bezier(0.19, 1, 0.22, 1) 4.7s both;
+    animation: anim2 1.5s cubic-bezier(0.19, 1, 0.22, 1) 5.7s both;
 }
 
 #wrapperload {
@@ -61,17 +61,17 @@ html,body {
 }
 
 #wrapperload .elem:nth-child(1) {
-    animation: anim 1s cubic-bezier(0.19, 1, 0.22, 1) 1.75s both;
+    animation: anim 1s cubic-bezier(0.19, 1, 0.22, 1) 2.75s both;
 }
 
 #wrapperload .elem:nth-child(2) {
     font-size: 15px;
-    animation: anim 1s cubic-bezier(0.19, 1, 0.22, 1) 2.75s both;
+    animation: anim 1s cubic-bezier(0.19, 1, 0.22, 1) 3.75s both;
 }
 
 #wrapperload .elem:nth-child(3) {
     font-size: 15px;
-    animation: anim 1s cubic-bezier(0.19, 1, 0.22, 1) 3.75s both;
+    animation: anim 1s cubic-bezier(0.19, 1, 0.22, 1) 4.75s both;
 }
 
 #page1 {
