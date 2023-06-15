@@ -1,4 +1,4 @@
-gsap.from("#loader wrapperload name",{
-    color:"red",
-    duration:2
-}) 
+var typed = new Typed('#name', {
+    strings: ['Lucky Goswami'],
+    typeSpeed: 50,
+});
